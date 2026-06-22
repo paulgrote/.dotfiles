@@ -1,13 +1,16 @@
 # User Space Configuration
 
-## Standard apps
+## Terminal
 
-- [ghostty](.config/ghostty/README.md)
+- [ghostty](ghostty/GHOSTTY.md)
 - bash
-- tmux
-- neovim
+- [tmux](tmux/TMUX.md)
+- [neovim](nvim/NVIM.md)
 - taskwarrior
 - timewarrior
 - uv
 - git
+
+## GUI
+
 - vscode
